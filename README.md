@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Avoimet ohjelmistotuotteet ja kaupunkienvälinen yhteistyö -projekti
 
-You can use the [editor on GitHub](https://github.com/juhasuv/hel-kaupunkiyhteistyo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_"... tehtävänä on luoda rajapintojen ja avoimien ohjelmistotuotteiden yhteinen hallinnointimalli, joka mahdollistaa tuoteaihoiden yhteisen kehittämisen."_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lisätietoja löytyy [Päätökset](https://dev.hel.fi/paatokset/asia/hel-2019-005303/)-palvelusta.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sopimuksen sopijapuolet
 
-```markdown
-Syntax highlighted code block
+ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupungit, joiden tietohallintojen yhteistä avoimien tuotteiden hallintamallin kehittämistä sopimus koskee, sekä Kuntaliitto ry.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Ohjelmistotuotteet
 
-1. Numbered
-2. List
+- **Tila- ja resurssivaraukset**
+  - Varaamo (https://github.com/City-of-Helsinki/varaamo)
+  - Respa (https://github.com/City-of-Helsinki/respa)
+- **Tapahtumarajapinta**
+  - Linked Events (https://github.com/City-of-Helsinki/linkedevents)
+  - Linked Events UI (https://github.com/City-of-Helsinki/linkedevents-ui)
+- **Mobiilisovellus**
+  - Open City App (https://github.com/City-of-Helsinki/open-city-app)
+  
 
-**Bold** and _Italic_ and `Code` text
+### Yhteystiedot
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juhasuv/hel-kaupunkiyhteistyo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Juha Suvanto
+etunimi.t.sukunimi@hel.fi
