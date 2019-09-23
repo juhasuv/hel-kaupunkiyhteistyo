@@ -1,6 +1,6 @@
 ## Avoimet ohjelmistotuotteet ja kaupunkienvälinen yhteistyö -projekti
 
-_"... tehtävänä on luoda rajapintojen ja avoimien ohjelmistotuotteiden yhteinen hallinnointimalli, joka mahdollistaa tuoteaihoiden yhteisen kehittämisen."_
+_"... tehtävänä on luoda rajapintojen ja avoimien ohjelmistotuotteiden yhteinen hallinnointimalli, joka mahdollistaa tuoteaihioiden yhteisen kehittämisen."_
 
 Lisätietoja löytyy [Päätökset](https://dev.hel.fi/paatokset/asia/hel-2019-005303/)-palvelusta.
 
