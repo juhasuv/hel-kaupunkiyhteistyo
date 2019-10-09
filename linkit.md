@@ -1,5 +1,3 @@
-# Linkit
-
 ## Tilannekatsaukset
 
 ### Projekti
