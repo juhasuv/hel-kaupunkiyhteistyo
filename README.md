@@ -21,9 +21,11 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
 - **Mobiilisovellus**
   - Open City App
 
+
 ### Materiaali
 
-Projektin tilannekatsaukset löytyy [Linkit]-sivulta.
+Projektin tilannekatsaukset löytyy [Linkit](https://juhasuv.github.io/hel-kaupunkiyhteistyo/linkit)-sivulta.
+
 
 ### Yhteystiedot
 
