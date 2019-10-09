@@ -13,13 +13,13 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
 ### Ohjelmistotuotteet
 
 - **Tila- ja resurssivaraukset**
-  - Varaamo
-  - Respa
+  - [Varaamo](https://github.com/City-of-Helsinki/varaamo)
+  - [Respa](https://github.com/City-of-Helsinki/respa)
 - **Tapahtumarajapinta**
-  - Linked Events UI
-  - Linked Events
+  - [Linked Events UI](https://github.com/City-of-Helsinki/linkedevents-ui)
+  - [Linked Events](https://github.com/City-of-Helsinki/linkedevents)
 - **Mobiilisovellus**
-  - Open City App
+  - [Open City App](https://github.com/City-of-Helsinki/open-city-app)
 
 
 ### Materiaali
