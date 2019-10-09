@@ -13,12 +13,17 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
 ### Ohjelmistotuotteet
 
 - **Tila- ja resurssivaraukset**
-  - [Varaamo ja Respa](https://drive.google.com/open?id=1N-B1gkrZCOoGlEQ5DVCOh-2KxM8FJLPA)
+  - Varaamo
+  - Respa
 - **Tapahtumarajapinta**
-  - [Linked Events](https://drive.google.com/open?id=1WO0Rp8bI-49BsD3cE2fp86S4UcfLym-r)
+  - Linked Events UI
+  - Linked Events
 - **Mobiilisovellus**
-  - [Open City App](https://drive.google.com/open?id=1k6Rp442jmIxe4Hvj33JHQf2zL5F0smb1)
+  - Open City App
 
+### Materiaali
+
+Projektin tilannekatsaukset löytyy [Linkit]-sivulta.
 
 ### Yhteystiedot
 
