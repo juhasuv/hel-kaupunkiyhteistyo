@@ -24,7 +24,7 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
 
 ### Materiaali
 
-Projektin ja ohjelmistotuotteiden tilannekatsaukset löytyy [Materiaali](https://juhasuv.github.io/hel-kaupunkiyhteistyo/materiaali)-sivulta.
+Projektin ja ohjelmistotuotteiden tilannekatsaukset löytyvät [Materiaali](https://juhasuv.github.io/hel-kaupunkiyhteistyo/materiaali)-sivulta.
 
 
 ### Yhteystiedot
