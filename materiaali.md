@@ -1,3 +1,5 @@
+[Takaisin etusivulle](https://juhasuv.github.io/hel-kaupunkiyhteistyo)
+
 ## Tilannekatsaukset
 
 ### Projekti
