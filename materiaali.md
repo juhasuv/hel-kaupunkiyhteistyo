@@ -3,7 +3,7 @@
 ## Tilannekatsaukset
 
 ### Projekti
-[Avoimet ohjelmistotuotteet ja kaupunkienvälinen yhteistyö -tilannekatsaus 4.10.2019](https://drive.google.com/open?id=1xxt0zalFFRd1XuIKSCdKXdX8d6fIO1jN)
+[Avoimet ohjelmistotuotteet ja kaupunkienvälinen yhteistyö -tilannekatsaus 14.10.2019](https://drive.google.com/open?id=1xxt0zalFFRd1XuIKSCdKXdX8d6fIO1jN)
 
 ### Ohjelmistotuotteet
 
