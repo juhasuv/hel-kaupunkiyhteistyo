@@ -1,6 +1,6 @@
 [Takaisin etusivulle](https://juhasuv.github.io/hel-kaupunkiyhteistyo)
 
-## Tilannekatsaukset
+## Tilannekatsaukset (PDF-muodossa)
 
 ### Projekti
 [Avoimet ohjelmistotuotteet ja kaupunkienvälinen yhteistyö -tilannekatsaus 5.11.2019](https://drive.google.com/open?id=1xxt0zalFFRd1XuIKSCdKXdX8d6fIO1jN)
