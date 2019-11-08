@@ -13,21 +13,25 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
 ### Ohjelmistotuotteet
 
 - **Tila- ja resurssivaraukset**
-  - [Varaamo](https://github.com/City-of-Helsinki/varaamo)
-  - [Respa](https://github.com/City-of-Helsinki/respa)
+  - [Varaamo](https://juhasuv.github.io/hel-kaupunkiyhteistyo/varaamo)
+  - [Respa](https://juhasuv.github.io/hel-kaupunkiyhteistyo/respa)
 - **Tapahtumarajapinta**
-  - [Linked Events UI](https://github.com/City-of-Helsinki/linkedevents-ui)
-  - [Linked Events](https://github.com/City-of-Helsinki/linkedevents)
+  - [Linked Events UI](https://juhasuv.github.io/hel-kaupunkiyhteistyo/linkedevents-ui)
+  - [Linked Events](https://juhasuv.github.io/hel-kaupunkiyhteistyo/linkedevents)
 - **Mobiilisovellus**
-  - [Open City App](https://github.com/City-of-Helsinki/open-city-app)
+  - [Open City App](https://juhasuv.github.io/hel-kaupunkiyhteistyo/open-city-app)
 
 
 ### Materiaali
 
-Projektin ja ohjelmistotuotteiden tilannekatsaukset löytyvät [Materiaali](https://juhasuv.github.io/hel-kaupunkiyhteistyo/materiaali)-sivulta. _Päivitetty 6.11.2019_
+Projektin ja ohjelmistotuotteiden tilannekatsaukset löytyvät [Materiaali](https://juhasuv.github.io/hel-kaupunkiyhteistyo/materiaali)-sivulta.
 
 
 ### Yhteystiedot
 
 Juha Suvanto
 etunimi.t.sukunimi@hel.fi
+
+
+
+_Sivu päivitetty 8.11.2019_
