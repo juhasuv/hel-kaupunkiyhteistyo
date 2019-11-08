@@ -16,7 +16,6 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
   - [Varaamo](https://juhasuv.github.io/hel-kaupunkiyhteistyo/varaamo)
   - [Respa](https://juhasuv.github.io/hel-kaupunkiyhteistyo/respa)
 - **Tapahtumarajapinta**
-  - [Linked Events UI](https://juhasuv.github.io/hel-kaupunkiyhteistyo/linkedevents-ui)
   - [Linked Events](https://juhasuv.github.io/hel-kaupunkiyhteistyo/linkedevents)
 - **Mobiilisovellus**
   - [Open City App](https://juhasuv.github.io/hel-kaupunkiyhteistyo/open-city-app)
