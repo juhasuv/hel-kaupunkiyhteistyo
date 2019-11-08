@@ -4,7 +4,7 @@
 * [https://varaamo.hel.fi](https://varaamo.hel.fi)
 
 # Projektisivut
-* [https://digi.hel.fi/projektit/ohjelma-arkisto/varaamo](https://digi.hel.fi/projektit/ohjelma-arkisto/varaamo)
+* [https://digi.hel.fi/projektit/digitaaliset-kaupunkilaispalvelut/varaamo](https://digi.hel.fi/projektit/digitaaliset-kaupunkilaispalvelut/varaamo)
 * [https://digi.hel.fi/projektit/ohjelma-arkisto/tilat-avoimiksi](https://digi.hel.fi/projektit/ohjelma-arkisto/tilat-avoimiksi)
 
 # Kehittäjäsivu
