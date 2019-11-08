@@ -5,7 +5,7 @@
 
 ## Tuotantoversio
 * [https://linkedevents.hel.fi](https://linkedevents.hel.fi)
-* [https://api.hel.fi/linkedevents)](https://api.hel.fi/linkedevents)
+* [https://api.hel.fi/linkedevents](https://api.hel.fi/linkedevents)
 * [https://api.hel.fi/linkedevents/admin](https://api.hel.fi/linkedevents/admin)
 
 ## Esitysmateriaali
