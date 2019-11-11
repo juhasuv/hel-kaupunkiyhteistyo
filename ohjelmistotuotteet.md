@@ -2,21 +2,29 @@
 
 ## Tila- ja resurssivaraukset
 * https://github.com/City-of-Helsinki/varaamo
+* https://github.com/City-of-Helsinki/respa
 * https://github.com/City-of-Helsinki/huvaja
 * https://github.com/City-of-Helsinki/reservation-screen-ui
 * https://github.com/City-of-Helsinki/tilapankki
-* https://github.com/City-of-Helsinki/respa
-
-## Tapahtumat.Helsinki
-* https://github.com/City-of-Helsinki/events-helsinki-ui
 
 ## Linked Events & Courses
+* https://github.com/City-of-Helsinki/kurssihaku-ui
 * https://github.com/City-of-Helsinki/linkedevents-ui
 * https://github.com/City-of-Helsinki/linkedevents
+
+## Tunnistamo
+* https://github.com/City-of-Helsinki/tunnistamo
+* https://github.com/City-of-Helsinki/tunnistamo-test-client
 
 ## Open City App
 * https://github.com/City-of-Helsinki/open-city-helsinki
 * https://github.com/City-of-Helsinki/open-city-app
+
+## Tapahtumat Helsinki
+* https://github.com/City-of-Helsinki/events-helsinki-ui
+
+## Helsinki Design System
+* https://github.com/City-of-Helsinki/helsinki-design-system
 
 ## Harrastuspassi
 * https://github.com/City-of-Helsinki/harrastuspassi-ui-web
@@ -30,10 +38,6 @@
 * https://github.com/City-of-Helsinki/kukkuu-ui
 * https://github.com/City-of-Helsinki/kukkuu
 
-## Tunnistamo
-* https://github.com/City-of-Helsinki/tunnistamo
-* https://github.com/City-of-Helsinki/tunnistamo-test-client
-
 ## Open City Profile
 * https://github.com/City-of-Helsinki/open-city-profile-ui
 * https://github.com/City-of-Helsinki/open-city-profile
@@ -43,6 +47,10 @@
 * https://github.com/City-of-Helsinki/servicemap
 * https://github.com/City-of-Helsinki/smbackend
 
+## Ulkoliikuntakartta
+* https://github.com/City-of-Helsinki/outdoors-sports-map
+* https://github.com/City-of-Helsinki/sports-maintenance-dashboard
+
 ## Nuorisotalojäsenyys
 * https://github.com/City-of-Helsinki/youth-membership-ui
 
@@ -50,12 +58,16 @@
 * https://github.com/City-of-Helsinki/kerrokantasi-ui
 * https://github.com/City-of-Helsinki/kerrokantasi
 
-## Decidim
+## Decidim Helsinki
 * https://github.com/City-of-Helsinki/decidim-helsinki
 
-# Linked Volunteering
+## Linked Volunteering
 * https://github.com/City-of-Helsinki/linked-volunteering-ui
 * https://github.com/City-of-Helsinki/haravajarjestelma
+
+## Signups
+* https://github.com/City-of-Helsinki/open-city-signups-ui
+* https://github.com/City-of-Helsinki/open-city-signups
 
 ## Ahti
 * https://github.com/City-of-Helsinki/ahti-ui
@@ -66,9 +78,6 @@
 * https://github.com/City-of-Helsinki/berth-reservations-ui
 * https://github.com/City-of-Helsinki/berth-reservations-admin
 * https://github.com/City-of-Helsinki/berth-reservations
-
-## Helsinki Design System
-* https://github.com/City-of-Helsinki/helsinki-design-system
 
 ## DevOps
 * https://github.com/City-of-Helsinki/bestpractice
