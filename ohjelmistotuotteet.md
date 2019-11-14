@@ -7,23 +7,24 @@
 * https://github.com/City-of-Helsinki/reservation-screen-ui
 * https://github.com/City-of-Helsinki/tilapankki
 
-## Linked Events & Courses
+## Tapahtumat + Linked Events & Courses
+* https://github.com/City-of-Helsinki/events-helsinki-ui
 * https://github.com/City-of-Helsinki/kurssihaku-ui
 * https://github.com/City-of-Helsinki/linkedevents-ui
 * https://github.com/City-of-Helsinki/linkedevents
 
-## Tunnistamo
+## Tunnistamo ja Open City Profile
 * https://github.com/City-of-Helsinki/tunnistamo
 * https://github.com/City-of-Helsinki/tunnistamo-test-client
+* https://github.com/City-of-Helsinki/open-city-profile-ui
+* https://github.com/City-of-Helsinki/open-city-profile
 
 ## Open City App
 * https://github.com/City-of-Helsinki/open-city-helsinki
 * https://github.com/City-of-Helsinki/open-city-app
 
-## Tapahtumat Helsinki
-* https://github.com/City-of-Helsinki/events-helsinki-ui
-
 ## Helsinki Design System
+* https://city-of-helsinki.github.io/helsinki-design-system
 * https://github.com/City-of-Helsinki/helsinki-design-system
 
 ## Harrastuspassi
@@ -37,10 +38,6 @@
 ## Kulttuurin kummilapset
 * https://github.com/City-of-Helsinki/kukkuu-ui
 * https://github.com/City-of-Helsinki/kukkuu
-
-## Open City Profile
-* https://github.com/City-of-Helsinki/open-city-profile-ui
-* https://github.com/City-of-Helsinki/open-city-profile
 
 ## Palvelukartta
 * https://github.com/City-of-Helsinki/servicemap-ui
@@ -79,7 +76,7 @@
 * https://github.com/City-of-Helsinki/berth-reservations-admin
 * https://github.com/City-of-Helsinki/berth-reservations
 
-## DevOps
+## Best practices & DevOps
 * https://github.com/City-of-Helsinki/bestpractice
 * https://github.com/City-of-Helsinki/docker-images
 
