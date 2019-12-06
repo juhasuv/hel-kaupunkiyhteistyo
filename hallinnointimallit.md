@@ -1,24 +1,15 @@
 # Yhteiskehittämisen hallinnointimallit
 
 Kuntaliitto
-https://www.kuntaliitto.fi/osallistuminen-ja-vuorovaikutus/tietoyhteiskunta/tulevaisuuden-kunnan-digitalisointi-projekti-2018-2019/avoimen-tuotteen-hallinta-koulutusmateriaali
+<https://www.kuntaliitto.fi/osallistuminen-ja-vuorovaikutus/tietoyhteiskunta/tulevaisuuden-kunnan-digitalisointi-projekti-2018-2019/avoimen-tuotteen-hallinta-koulutusmateriaali>
 
 ## Videot
 
-Avoimen tuotteen hallinta, yleisesittely
-https://www.youtube.com/embed/1sAXn7_rgfU
-
-Avoimen tuotteen hallinta, pohjamalleja ja pohjadokumentti
-https://www.youtube.com/embed/Jf-UwpVev_o
-
-Avoimen tuotteen hallinta, tekeminen ja esimerkit
-https://www.youtube.com/embed/rADZ11wezp0
-
-Avoimen ja yhteisen rajapinnan hallinnan yleisesittely, esimerkit ja pohjadokumentti
-https://www.youtube.com/embed/az8Q3iC8YqM
-
-Rahoitusmallit, esimerkkejä ja usein kysytyt kysymykset
-https://www.youtube.com/embed/HgVnlYlcvaE
+* [Avoimen tuotteen hallinta, yleisesittely](https://www.youtube.com/embed/1sAXn7_rgfU)
+* [Avoimen tuotteen hallinta, pohjamalleja ja pohjadokumentti](https://www.youtube.com/embed/Jf-UwpVev_o)
+* [Avoimen tuotteen hallinta, tekeminen ja esimerkit](https://www.youtube.com/embed/rADZ11wezp0)
+* [Avoimen ja yhteisen rajapinnan hallinnan yleisesittely, esimerkit ja pohjadokumentti](https://www.youtube.com/embed/az8Q3iC8YqM)
+* [Rahoitusmallit, esimerkkejä ja usein kysytyt kysymykset](https://www.youtube.com/embed/HgVnlYlcvaE)
 
 
 ## Materiaali
