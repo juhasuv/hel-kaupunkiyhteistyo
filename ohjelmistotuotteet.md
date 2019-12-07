@@ -111,6 +111,10 @@
 ## Infopankki
 * https://github.com/City-of-Helsinki/infopankki-api
 
+## Templates
+* https://github.com/City-of-Helsinki/hel-page-templates
+* https://github.com/City-of-Helsinki/hel-email-templates
+
 ## Best practices
 * https://github.com/City-of-Helsinki/bestpractice
 
