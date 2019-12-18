@@ -23,7 +23,7 @@ ovat Helsingin, Espoon, Kouvolan, Lahden, Porin, Oulun, Tampereen ja Turun kaupu
 
 ### Materiaali
 
-Projektin ja ohjelmistotuotteiden tilannekatsaukset löytyvät [Materiaali](https://juhasuv.github.io/hel-kaupunkiyhteistyo/materiaali)-sivulta.
+Projektin ja ohjelmistotuotteiden tilannekatsaukset löytyvät [Materiaali](https://juhasuv.github.io/hel-kaupunkiyhteistyo/materiaali)-sivulta. _Materiaali päivitetty 18.12.2019_
 
 
 ### Yhteystiedot
@@ -33,4 +33,4 @@ etunimi.t.sukunimi@hel.fi
 
 
 
-_Sivu päivitetty 5.12.2019_
+_Sivu päivitetty 18.12.2019_
